@@ -1,5 +1,3 @@
-# Arma 2 DayZ Cheat
- 
 # ESP
 Players  
 Vehicles  
